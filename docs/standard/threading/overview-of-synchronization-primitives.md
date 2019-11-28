@@ -9,6 +9,10 @@ helpviewer_keywords:
   - "managed threading"
 ms.assetid: b782bcb8-da6a-4c6a-805f-2eb46d504309
 ---
+# Defination of synchronization primitive
+
+Synchronization primitives are software mechanisms provided by a operating system [or platform] to its users for the purposes of supporting thread or process synchronization.
+
 # Overview of synchronization primitives
 
 .NET provides a range of types that you can use to synchronize access to a shared resource or coordinate thread interaction.
